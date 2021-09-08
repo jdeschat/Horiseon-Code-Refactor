@@ -49,6 +49,10 @@ Made with [contributors-img](https://contrib.rocks).
 ## Tests
 ![GitHub license](https://img.shields.io/badge/test-100%25-success)
 
+## Technology Used
+- HTML 5
+- CSS
+
 ## Questions
 My Github username is jdeschat, which can be accessed here https://github.com/jdeschat/Horiseon-Code-Refactor.
 
