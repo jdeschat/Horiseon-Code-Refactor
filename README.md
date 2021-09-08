@@ -50,7 +50,7 @@ Made with [contributors-img](https://contrib.rocks).
 ![GitHub license](https://img.shields.io/badge/test-100%25-success)
 
 ## Questions
-My Github username is jdeschat, which can be accessed here https://github.com/jdeschat/Team_profile_generator.
+My Github username is jdeschat, which can be accessed here https://github.com/jdeschat/Horiseon-Code-Refactor.
 
 The Github page for this project can be accessed using the following link: https://jdeschat.github.io/Horiseon-Code-Refactor/
 
