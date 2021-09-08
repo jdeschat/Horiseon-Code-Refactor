@@ -11,6 +11,17 @@ In this challenge, I refactored the code to fit the following criteria...
 
 ![alt text](https://github.com/jdeschat/Horiseon-Code-Refactor/blob/main/assets/images/horiseon.jpg)
 
+## Table of Contents
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributors](#contributors)
+- [Tests](#tests)
+- [Technology Used](#technology-used)
+- [Questions](#questions)
+
 # User Story
 AS A marketing agency <br>
 I WANT a codebase that follows accessibility standards <br>
