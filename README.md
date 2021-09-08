@@ -1,5 +1,5 @@
-# challenge-module-1
-This is my challenge for Module 1
+# Horiseon Code Refactor
+
 # https://jdeschat.github.io/challenge-module-1/#social-media-marketing
 
 This is my webpage:
